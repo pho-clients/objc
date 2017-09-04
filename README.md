@@ -18,7 +18,7 @@ The SDK requires [**ARC (Automatic Reference Counting)**](http://stackoverflow.c
 Add the following to the Podfile:
 
 ```ruby
-pod 'PhoClient', :git => 'https://github.com//.git'
+pod 'PhoClient', :git => 'https://github.com/pho-clients/objc.git'
 ```
 
 To specify a particular branch, append `, :branch => 'branch-name-here'`
